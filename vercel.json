@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/bao-gia-dich-vu.html" }
+  ]
+}
